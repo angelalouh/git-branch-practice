@@ -1,5 +1,3 @@
-ECHO is on.
-
 Hawaii
 Europe
 African Safari
