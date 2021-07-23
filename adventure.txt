@@ -1,4 +1,4 @@
-ECHO is on.
+Adventure Ideas:
 
 Hawaii
 Europe
